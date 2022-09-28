@@ -61,5 +61,7 @@ Here are some ideas to get you started:
 ...
 
 ![Lehao's GitHub stats](https://github-readme-stats.vercel.app/api?username=LehaoLin&show_icons=true&theme=blueberry)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehaoLin&layout=compact&count_private=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=LehaoLin.LehaoLin)

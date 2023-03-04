@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://user-images.githubusercontent.com/1503156/50446380-ad88c980-094f-11e9-8eff-0094bde708d0.png"></code> -->
 
 ### Skill Road
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 ->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
@@ -64,6 +65,8 @@ Here are some ideas to get you started:
 
 ![Lehao's GitHub stats](https://github-readme-stats.vercel.app/api?username=LehaoLin&show_icons=true&theme=blueberry)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehaoLin&layout=compact&count_private=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehaoLin&layout=compact&count_private=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehaoLin&count_private=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=LehaoLin.LehaoLin)

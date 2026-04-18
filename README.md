@@ -65,6 +65,8 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
 ...
 
+<h4 align="center">⚡ The Vibe Coding era is here — everything above is now just past experience. ⚡</h4>
+
 ![Lehao's GitHub stats](https://github-readme-stats.vercel.app/api?username=LehaoLin&show_icons=true&theme=blueberry)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehaoLin&layout=compact&count_private=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) -->

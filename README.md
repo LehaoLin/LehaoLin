@@ -1,3 +1,5 @@
+[![VibeUsage](https://vibecafe.ai/@lehao/badge)](https://vibecafe.ai/@lehao)
+
 ### Hi there 👋
 
 <!--

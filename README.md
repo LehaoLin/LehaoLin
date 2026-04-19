@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://trufflesuite.com/img/truffle-logomark.svg"></code>
 <code><img height="30" src="https://trufflesuite.com/img/ganache-logomark.svg"></code>
 ->
-<code><img height="30" src="https://vitejs.dev/logo.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"></code>
 ->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 ->

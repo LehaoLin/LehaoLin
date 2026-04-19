@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ->
 <code><img height="30" src="https://avatars.githubusercontent.com/u/11578470?s=200&v=4"></code>
 ->
-<code><img height="30" src="https://soliditylang.org/images/logo.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/ethereum/solidity@develop/docs/_static/img/logo.svg"></code>
 <code><img height="30" src="https://trufflesuite.com/img/truffle-logomark.svg"></code>
 <code><img height="30" src="https://trufflesuite.com/img/ganache-logomark.svg"></code>
 ->
@@ -73,4 +73,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehaoLin&count_private=true&theme=blueberry&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://visitor-badge.glitch.me/badge?page_id=LehaoLin.LehaoLin)
+![](https://komarev.com/ghpvc/?username=LehaoLin&color=blue)
